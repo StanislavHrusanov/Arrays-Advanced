@@ -1,2 +1,2 @@
 # Arrays-Advanced
-Problems for exercise and homework from my training in Softuni
+Some problems solutions from my training in Softuni
